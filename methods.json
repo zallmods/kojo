@@ -1,0 +1,16 @@
+[
+  { "name": "udp", "description": "UDP flood method using raw packet sending to overwhelm ports." },
+  { "name": "http", "description": "HTTP flood method that simulates browser requests to exhaust web server resources." },
+  { "name": "tornado", "description": "Tornado flood method simulating browser-like GET requests via proxy to overload targets." },
+  { "name": "tls", "description": "TLS flood method targeting encrypted HTTPS services with connection floods." },
+  { "name": "xran-bypass", "description": "Flood technique designed to bypass protections using randomized request patterns and proxies." },
+  { "name": "hyper", "description": "High-speed HTTP flood method focused on sending many lightweight requests quickly." },
+  { "name": "storm-rush", "description": "Advanced GET flood with custom headers and rate-limiting options to bypass DDoS defenses." },
+  { "name": "rape", "description": "Aggressive flood method using proxy rotation and persistent connections." },
+  { "name": "thunder", "description": "Proxy-based flood method designed for high concurrency and persistent load." },
+  { "name": "bypass", "description": "Method aiming to bypass common anti-DDoS protections using crafted requests." },
+  { "name": "browser", "description": "Simulates browser-based traffic floods through proxy networks." },
+  { "name": "flood-x", "description": "High post repan flooading traffic is light a lot" },
+  { "name": "mcbot", "description": "Minecraft bot flood method targeting game servers via fake client connections." },
+  { "name": "tcp", "description": "TCP-based flood targeting application-layer services like SAMP servers." }
+]

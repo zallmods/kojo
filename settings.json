@@ -1,0 +1,30 @@
+{
+  "users": {
+    "6913834941": {
+      "token": "kojo",
+      "maxTime": 60,
+      "concurrentLimit": 1,
+      "expiryDate": "2025-06-3"
+    },
+    "6456655262": {
+      "token": "kojo",
+      "maxTime": 300,
+      "concurrentLimit": 2,
+      "expiryDate": "2030-12-31"
+    },
+    "7480287086": {
+      "token": "kojo",
+      "maxTime": 60,
+      "concurrentLimit": 1,
+      "expiryDate": "2025-06-8"
+    }
+  },
+  "adminId": 6456655262,
+  "notificationGroupId": -4764306375,
+  "apis": [
+    {
+      "url": "http://95.216.12.48:21743/api/attack",
+      "token": "kojo"
+    }
+  ]
+}
