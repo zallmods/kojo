@@ -11,6 +11,7 @@
   { "name": "bypass", "description": "Method aiming to bypass common anti-DDoS protections using crafted requests." },
   { "name": "browser", "description": "Simulates browser-based traffic floods through proxy networks." },
   { "name": "flood-x", "description": "High post repan flooading traffic is light a lot" },
+  { "name": "h2-fiony", "description": "High rps you can use in dstat or attack your target hahah dont forget talk fiony" },
   { "name": "mcbot", "description": "Minecraft bot flood method targeting game servers via fake client connections." },
   { "name": "tcp", "description": "TCP-based flood targeting application-layer services like SAMP servers." }
 ]
